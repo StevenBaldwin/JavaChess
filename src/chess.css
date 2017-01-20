@@ -1,0 +1,75 @@
+#b-rook{
+-fx-background-image: url('b_rook.png');
+-fx-background-size: 75px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 90%;
+}
+#w-rook{
+-fx-background-image: url('w_rook.png');
+-fx-background-size: 75px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 90%;
+}
+#b-queen{
+-fx-background-image: url('b_queen.png');
+-fx-background-size: 75px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 90%;
+}
+#w-queen{
+-fx-background-image: url('w_queen.png');
+-fx-background-size: 75px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 90%;
+}
+#b-pawn{
+-fx-background-image: url('b_pawn.png');
+-fx-background-size: 75px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 90%;
+}
+#w-pawn{
+-fx-background-image: url('w_pawn.png');
+-fx-background-size: 75px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 90%;
+}
+#b-king{
+-fx-background-image: url('b_king.png');
+-fx-background-size: 75px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 90%;
+}
+#w-king{
+-fx-background-image: url('w_king.png');
+-fx-background-size: 75px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 90%;
+}
+#b-knight{
+-fx-background-image: url('b_knight.png');
+-fx-background-size: 75px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 90%;
+}
+#w-knight{
+-fx-background-image: url('w_knight.png');
+-fx-background-size: 75px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 90%;
+}
+#b-bishop{
+-fx-background-image: url('b_bishop.png');
+-fx-background-size: 75px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 90%;
+}
+#w-bishop{
+-fx-background-image: url('w_bishop.png');
+-fx-background-size: 75px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 90%;
+}
+
+C:\Users\Steven\IdeaProjects\JChess2\src\blackMarbleSquare.png
+
